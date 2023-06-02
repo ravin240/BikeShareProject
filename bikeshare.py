@@ -1,3 +1,4 @@
+#Import time, pandas and numpy 
 import time
 import pandas as pd
 import numpy as np
