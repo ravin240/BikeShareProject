@@ -6,6 +6,8 @@ I also referred to https://stackoverflow.com/ for some pandas functions
 
 I have used pandas, lists, while loop, conditional statements, functions and time modules to implement this analysis.
 
+This project helped me learn basicis of Python by analysing statistical data and answer some of the below mentioned questions.
+
 Here are the questions that I have been able to answer through my code:
 
 Statistics displayed:
