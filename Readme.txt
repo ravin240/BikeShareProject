@@ -1,5 +1,5 @@
 Project : Bike Share Data - Statistical Project
-Date Submitted: 02/06/2023
+Date Submitted: 02/06/2023 
 I have used the data of three cities for the data analysis of BikeShare. This data was available fron Udacity Python course resources.
 
 I also referred to https://stackoverflow.com/ for some pandas functions
