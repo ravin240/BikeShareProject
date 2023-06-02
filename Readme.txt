@@ -30,3 +30,5 @@ The statistics above are displayed after asking the user to enter the required c
 Select a city to analyze? (Chicago/New York city/Washington)
 Select a month to analyze? (january/february/march/april/may/june/all)
 Select a day of week to analyze? (sunday/monday/tuesday/wednesday/thursday/friday/saturday/all)
+
+Document updated: 02/06/2023 4:04pm 
